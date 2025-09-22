@@ -50,9 +50,15 @@ Model checkpointing was used to preserve the best validation performance.
 * Matplotlib
 
 ---
- ## Sample Input
-<img width="416" height="416" alt="sample_input" src="https://github.com/user-attachments/assets/1068ff11-b2fd-48f8-8bdd-0224a66fa213" />
-<img width="417" height="417" alt="sample_keypoints" src="https://github.com/user-attachments/assets/d6126c57-dae5-4081-88d5-5cfe6cce37ee" />
+## Sample Input  
+
+<table>
+  <tr>
+    <td><img width="300" height="300" alt="sample_input" src="https://github.com/user-attachments/assets/1068ff11-b2fd-48f8-8bdd-0224a66fa213" /></td>
+    <td><img width="300" height="300" alt="sample_keypoints" src="https://github.com/user-attachments/assets/d6126c57-dae5-4081-88d5-5cfe6cce37ee" /></td>
+  </tr>
+</table>
+
 
 ## Sample Output
 <img width="860" height="644" alt="sample_output" src="https://github.com/user-attachments/assets/881ac279-a551-44fa-ab94-dfac7c47d071" />
